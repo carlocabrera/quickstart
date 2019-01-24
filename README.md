@@ -22,4 +22,4 @@
 
 **Start Server**
 
-    npm run watch
+    npm run qs

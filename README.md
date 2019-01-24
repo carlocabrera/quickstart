@@ -21,4 +21,4 @@
 
 **Start Server**
 
-    npm run qs
+    npm run view

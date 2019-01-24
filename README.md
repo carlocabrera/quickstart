@@ -3,7 +3,7 @@
 **Steps**
 ---------
 
-**Clone or Download This Repo**
+**Clone or Download Repo**
 
  **Install Node**
 	https://nodejs.org/en/
